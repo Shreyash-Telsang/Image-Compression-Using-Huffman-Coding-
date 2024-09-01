@@ -1,4 +1,4 @@
-#BMP Image Compression and Decompression Using Huffman Coding in C#
+# BMP Image Compression and Decompression Using Huffman Coding in C #
 
 This project implements a BMP image compression and decompression system using Huffman coding, developed in C. The system is designed to efficiently reduce the size of BMP image files without any loss of information by encoding the image data into a compressed format using Huffman coding and subsequently decoding it back to its original form. The project includes two primary components: a compressor and a decompressor.
 
